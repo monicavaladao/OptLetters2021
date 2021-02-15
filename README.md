@@ -2,7 +2,7 @@
 # Investigation of SAEAs’ metamodel samples for computationally expensive optimization problems
 
 > **Contributors:** Mônica A. C. Valadão<sup>1,4</sup>, André L. Maravilha<sup>2,4</sup>, Lucas S. Batista<sup>3,4</sup>   
-> <sup>1</sup> *Science and Technology Institute - Universidade Federal dos Vales do Jequitinhonha e Mucuri ([url](http://ufvjm.edu.br/))*   
+> <sup>1</sup> *Science and Technology Institute - Universidade Federal dos Vales do Jequitinhonha e Mucuri ([url](https://www.ict.ufvjm.edu.br/))*   
 > <sup>2</sup> *Dept. of Informatics, Management and Design - Centro Fed. de Edu. Tecnológica de Minas Gerais ([url](https://www.cefetmg.br/))*  
 > <sup>3</sup> *Dept. Electrical Engineering - Universidade Federal de Minas Gerais ([url](http://www.dee.ufmg.br/))*  
 > <sup>4</sup> *Operations Research and Complex Systems Lab. - Universidade Federal de Minas Gerais ([url](http://orcslab.ppgee.ufmg.br/))*
