@@ -6,8 +6,8 @@ clc
 % -------------------------------------------------------------------------
 % Add dependencies (toolboxes)
 
-%addpath(genpath('../toolboxes/ooDACE'));
-%addpath(genpath('../toolboxes/SRGTSToolbox'));
+addpath(genpath('../toolboxes/ooDACE'));
+addpath(genpath('../toolboxes/SRGTSToolbox'));
 addpath(genpath('../source'));
 
 
